@@ -1,4 +1,4 @@
-r*
+*
 {
   outline: none !important;
 }
@@ -461,9 +461,9 @@ body{
 
   .banner{
     position: relative;
-    /* margin-top: 20px; */
+    margin-top: 180px;
     width: 100%;
-    height: 50%;
+    height: 400px;
     background: url(../images/ShruthiPosterrr.jpg) ;
     background-size: cover;
     margin-bottom: 0;
