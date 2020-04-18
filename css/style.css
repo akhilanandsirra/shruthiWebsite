@@ -462,7 +462,7 @@ body{
   .banner{
     position: relative;
     /* margin-top: 20px; */
-    width: 100%;
+    width: 50%;
     height: 1000px;
     background: url(../images/ShruthiPosterrr.jpg) ;
     background-size: cover;
