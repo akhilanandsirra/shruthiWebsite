@@ -552,6 +552,13 @@ body{
       background-size: cover;
       margin-bottom: 0;
     }
+    .contentBox h1{
+    font-weight: 800;
+    color: #fff;
+    font-size: 3rem;
+	   display:none
+  }  
+	  
     .arrow {
       color: transparent;
       display: none;
