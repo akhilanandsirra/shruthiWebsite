@@ -476,6 +476,7 @@ background-color:#0000000;
 
   .h100{
     height: 100vh;
+	  background-color:black;
   }
 
   .contentBox{
